@@ -20,9 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-...ruby
+```ruby
 HayaletViewTool::Renderer.copyright 'Sinan KILIÇ', 'All rights reserves'
-...
+```
 
 ## Development
 
